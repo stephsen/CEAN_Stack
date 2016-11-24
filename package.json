@@ -1,7 +1,7 @@
 {
-  "name": "mean-es6",
-  "version": "0.0.1",
-  "description": "Mean starter kit",
+  "name": "cean-es6",
+  "version": "1.0.0",
+  "description": "Cean starter kit",
   "main": "index.js",
   "scripts": {
     "start": "babel-node index.js",

@@ -3,8 +3,6 @@ var db = require("../../../index").bucket;
 var config = require("../../config");
 var N1qlQuery = require('couchbase').N1qlQuery;
 
-
-// let model = mongoose.model('Todo', todoSchema);
 function Todo() {}
 
 Todo.save = function(data, callback) {
